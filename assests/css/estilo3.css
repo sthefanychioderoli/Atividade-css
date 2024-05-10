@@ -1,0 +1,68 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.retangulo1 {
+    background-color: #B72F2F;
+    position: relative;
+    justify-content: center;
+    display: flex;
+    margin: 70px;
+    width: 250px;
+    height: 450px;
+}
+
+.retangulo2 {
+    background-color: #21EC4E;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    top: 20px;
+}
+
+.retangulo3 {
+    background-color: #280E0E;
+    width: 200px;
+    height: 50px;
+    position: absolute;
+    bottom: 20px;
+}
+
+.retangulo4 {
+    position: absolute;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    right: 0;
+    top: 0;
+    background-color: #30A150;
+    width: 500px;
+    height: 100px;
+}
+
+.retangulo5 {
+    background-color: #280E0E;
+    width: 270px;
+    height: 50px;
+}
+
+.retangulo6 {
+    position: absolute;
+    display: flex;
+    padding-top: 10px;
+    right: 0;
+    bottom: 0;
+    background-color: #0F3FE7;
+    width: 400px;
+    height: 250px;
+}
+
+.retangulo7 {
+    background-color: #280E0E;
+    width: 270px;
+    height: 50px;
+}

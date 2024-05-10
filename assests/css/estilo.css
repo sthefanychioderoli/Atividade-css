@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.div1 {
+    background-color: rgb(9, 9, 145);
+    width: 1500px;
+    height: 130px;
+    position: relative;
+    z-index: 2;
+    position: relative;
+}
+
+.div2 {
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    position: absolute;
+}
+
+h1 {
+    position: relative;
+    z-index: 3;
+
+}

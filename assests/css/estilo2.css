@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.retanguloazul {
+    background-color: rgb(43, 32, 143);
+    width: 100%;
+    height: 100px;
+    z-index: 2;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.retanguloverde {
+    background-color: rgb(177, 255, 191);
+    width: 400px;
+    height: 40px;
+    bottom: 0px;
+}
+
+.bolavermelha {
+    background-color: rgb(225, 0, 0);
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

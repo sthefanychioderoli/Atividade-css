@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.div{position: relative;
+    width: 1440px;
+    height: 1024px;
+    overflow: scroll;
+    
+    background: white ;
+    }
+    
+    /* retangulo 1 */
+    
+    .div1{
+    position: absolute;
+    width: 608px;
+    height: 467px;
+    left: 416px;
+    top: 278px;
+    
+    background:red ;
+    }
+    
+    /* retangulo 2 */
+    
+    .div2{
+    position: absolute;
+    width: 503px;
+    height: 332px;
+    left: 469px;
+    top: 346px;
+    
+    background: #5EFEB1;
+    }
+    
+    /* grupo 1 */
+    
+    .div3{
+    position: absolute;
+    width: 739px;
+    height: 568px;
+    left: 351px;
+    top: 228px;
+    }
+    
+    
+    /* bola 1 */
+    
+    .div4{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 670px;
+    top: 462px;
+    border-radius: 100px;
+    
+    background:blue ;
+    }
+    
+    /* bola 2 */
+    
+    .div5{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 670px;
+    top: 228px;
+    border-radius: 100px;
+    
+    
+    background:#F7F9A3 ;
+    }
+    
+    /* bola 3 */
+    
+    .div6{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 671px;
+    top: 696px;
+    border-radius: 100px;
+    
+    background: black ;
+    }
+    
+    /* bola 4 */
+    
+    .div7{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 990px;
+    top: 462px;
+    border-radius: 100px;
+    
+    
+    background: #A1EEFF ;
+    }
+    
+    /* bola 5 */
+    
+    .div8{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 351px;
+    top: 462px;
+    border-radius: 100px;
+    
+    background: hotpink ;
+    }
+    
+    /* retangulo 3 */
+    
+    .div9{
+    position: absolute;
+    width: 1440px;
+    height: 47px;
+    left: 0px;
+    top: 0px;
+    
+    background:black ;
+    }
+    
+    /* retangulo 4 */
+    
+    .div10{
+    position: absolute;
+    width: 1440px;
+    height: 47px;
+    left: 1px;
+    top: 977px;
+    
+    background: black;
+    }
+    
+    /* retangulo 5 */
+    
+    .div11{
+    position: absolute;
+    width: 47px;
+    height: 930px;
+    left: 1px;
+    top: 47px;
+    
+    background:black;
+    }
+    
+    /* retangulo 6 */
+    
+    .div12{
+    position: absolute;
+    width: 47px;
+    height: 930px;
+    left: 1393px;
+    top: 47px;
+    
+    background: black;
+    }
